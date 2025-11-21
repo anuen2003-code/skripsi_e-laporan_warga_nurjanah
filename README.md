@@ -43,7 +43,7 @@
             color: #00246B;
         }
         h1 {
-            font-size: 24px;
+            font-size: 50px;
             margin-bottom: 10px;
         }
         form {
