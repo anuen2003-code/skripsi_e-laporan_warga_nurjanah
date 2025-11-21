@@ -9,7 +9,7 @@
             font-family: 'ArialBold', sans-serif;
             background: linear-gradient(135deg, #CADCFC, #8AB6F9);
             margin: 0;
-            padding: 0;
+            padding: 12px;
             color: #333;
             overflow-x: hidden;
         }
@@ -43,7 +43,7 @@
             color: #00246B;
         }
         h1 {
-            font-size: 50px;
+            font-size: 24px;
             margin-bottom: 10px;
         }
         form {
@@ -127,7 +127,7 @@
 <body>
     <div class="header">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_Kota_Tangerang.png/200px-Logo_Kota_Tangerang.png" alt="Logo Kota Tangerang">
-        <h1>Sistem E-Laporan Kegiatan RW 002 Kelurahan Gandasari Kota Tangerang</h1>
+        <h1>Sistem E-Laporan RW 002 Kelurahan Gandasari Kota Tangerang</h1>
     </div>
     
     <div class="container">
