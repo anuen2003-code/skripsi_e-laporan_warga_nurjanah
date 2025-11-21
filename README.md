@@ -126,7 +126,7 @@
 </head>
 <body>
     <div class="header">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_Kota_Tangerang.png/200px-Logo_Kota_Tangerang.png" alt="Logo Kota Tangerang">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Lambang_Kota_Tangerang.png" alt="Logo Kota Tangerang">
         <h1>Sistem E-Laporan Kegiatan RW 002 Kelurahan Gandasari Kota Tangerang</h1>
     </div>
     
