@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -8,8 +8,8 @@
         body {
             font-family: 'ArialBold', sans-serif;
             background: linear-gradient(135deg, #CADCFC, #8AB6F9);
-            margin: 0;
-            padding: 12px;
+            margin: 20px;
+            padding: 20px;
             color: #333;
             overflow-x: hidden;
         }
